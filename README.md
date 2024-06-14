@@ -1,4 +1,4 @@
-C#
+C Sharp
 Basic strucuter of C#
 
   using System;
